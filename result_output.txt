@@ -1,0 +1,7 @@
+Result Summary:
+Shortest path from Karachi to Islamabad:
+Karachi -> Islamabad
+
+Distance: 1400 km
+Time taken by train: 23 hour(s) and 19 minute(s)
+
